@@ -17,11 +17,11 @@
 
 <div align="center">
 <a href="https://github.com/GuilhermeGabrielSS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGabrielSS&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"  heigth="160em" width="400px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fragoso-dev&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"  heigth="160em" width="400px"/>
 </a>
 
 <a href="https://github.com/guilhermegabrielss">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeGabrielSS&show_icons=true&theme=dark&line_height=33&count_private=true" alt="**GUILHERME GABRIEL* github stats" heigth="160em" width="420px"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=fragoso-dev&show_icons=true&theme=dark&line_height=33&count_private=true" alt="**PABLO HENRIQUE* github stats" heigth="160em" width="420px"/>
 </a>
  
 <div> 
