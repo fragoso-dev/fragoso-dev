@@ -17,7 +17,7 @@
 <div>
   <div align="center">
 <a href="https://github.com/fragoso-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fragoso-dev&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"  heigth="180em" width="400px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fragoso-dev&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"  heigth="200em" width="400px"/>
 </a>
 
 <a href="https://github.com/fragoso-dev">
