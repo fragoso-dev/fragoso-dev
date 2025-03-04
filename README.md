@@ -12,7 +12,17 @@
   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   
-  ##
+  
+## **GitHub Statistics**
+
+<div align="center">
+<a href="https://github.com/GuilhermeGabrielSS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGabrielSS&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"  heigth="160em" width="400px"/>
+</a>
+
+<a href="https://github.com/guilhermegabrielss">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeGabrielSS&show_icons=true&theme=dark&line_height=33&count_private=true" alt="**GUILHERME GABRIEL* github stats" heigth="160em" width="420px"/>
+</a>
  
 <div> 
 <!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
