@@ -10,7 +10,7 @@
   
 ## **GitHub Statistics**
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: flex-start;flex-wrap: wrap;">
   <!-- Card Rocket ID -->
   <div>
     <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=fragosoph-dev&type=card" width="280" alt="Pablo Henrique Fragoso's Rocket ID"/>
