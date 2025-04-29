@@ -28,7 +28,7 @@
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=fragoso-dev&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"
         alt="Linguagens mais usadas"
-        height="140"
+        height="150"
         width="380"
       />
     </a>
