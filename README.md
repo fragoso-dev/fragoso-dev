@@ -4,7 +4,7 @@
 
  <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,github,vscode,html,css,vue,javascript,typescript,sql" />
+    <img src="https://skillicons.dev/icons?i=figma,github,git,vscode,html,css,vue,javascript,typescript,sql" />
   </a>
 </p>
 <!--   <img align="center" alt="fragoso-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
