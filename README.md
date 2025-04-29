@@ -11,7 +11,7 @@
 ## **GitHub Statistics**
 
 
-<div style="display: flex; justify-content: center; align-items: flex-start;flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <!-- GitHub Stats -->
   <div>
     <a href="https://github.com/fragoso-dev">
