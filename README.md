@@ -17,7 +17,7 @@
 
 <div style="display: flex; justify-content: center">
   <!-- Card Rocket ID (Esquerda) -->
-  <div>
+  <div style="margin: 0 0;">
     <img
       src="https://app.rocketseat.com.br/api/rocketid/share?slug=fragosoph-dev&type=card"
       width="240"
@@ -31,7 +31,7 @@
         src="https://github-readme-stats.vercel.app/api?username=fragoso-dev&show_icons=true&theme=dark&line_height=33&count_private=true"
         alt="Pablo Henrique github stats"
         height="160"
-        width="420"
+        width="380"
       />
     </a>
     <a href="https://github.com/fragoso-dev">
