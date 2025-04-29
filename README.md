@@ -15,9 +15,9 @@
 
 ## **GitHub Statistics**
 
-<div style="display: flex; justify-content: center">
-  <!-- GitHub Stats  -->
-  <div style="display: flex; flex-direction: column; align-items: center">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px">
+  <!-- GitHub Stats -->
+  <div style="display: flex; flex-direction: column; gap: 20px">
     <a href="https://github.com/fragoso-dev">
       <img
         src="https://github-readme-stats.vercel.app/api?username=fragoso-dev&show_icons=true&theme=dark&line_height=33&count_private=true"
@@ -31,13 +31,13 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=fragoso-dev&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"
         alt="Linguagens mais usadas"
         height="140"
-        width="360"
+        width="380"
       />
     </a>
   </div>
 
-  <!-- Card Rocket ID  -->
-  <div>
+  <!-- Card Rocket ID -->
+  <div style="margin-top: 10px">
     <img
       src="https://app.rocketseat.com.br/api/rocketid/share?slug=fragosoph-dev&type=card"
       width="240"
