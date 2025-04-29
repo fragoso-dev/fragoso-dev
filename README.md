@@ -16,15 +16,7 @@
 ## **GitHub Statistics**
 
 <div style="display: flex; justify-content: center">
-  <!-- Card Rocket ID (Esquerda) -->
-  <div style="margin: 0 0;">
-    <img
-      src="https://app.rocketseat.com.br/api/rocketid/share?slug=fragosoph-dev&type=card"
-      width="240"
-      alt="Pablo Henrique Fragoso's Rocket ID"
-    />
-  </div>
-  <!-- GitHub Stats (Direita - em coluna) -->
+  <!-- GitHub Stats  -->
   <div style="display: flex; flex-direction: column; align-items: center">
     <a href="https://github.com/fragoso-dev">
       <img
@@ -42,6 +34,15 @@
         width="360"
       />
     </a>
+  </div>
+
+  <!-- Card Rocket ID  -->
+  <div style="margin: 0 0;">
+    <img
+      src="https://app.rocketseat.com.br/api/rocketid/share?slug=fragosoph-dev&type=card"
+      width="240"
+      alt="Pablo Henrique Fragoso's Rocket ID"
+    />
   </div>
 </div>
 
