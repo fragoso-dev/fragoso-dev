@@ -1,6 +1,7 @@
 <h1>Hello, welcome to my repository!</h1>
 
-<div><h3>Tecnologias que estou aprendendo😎</h3></div>
+<div>
+  <h3>Tecnologias que estou aprendendo😎</h3>
 
 <p align="start">
   <a href="https://skillicons.dev">
@@ -9,6 +10,8 @@
     />
   </a>
 </p>
+
+</div>
 
 ## **GitHub Statistics**
 
