@@ -11,18 +11,27 @@
 ## **GitHub Statistics**
 
 
-<div style="display: flex; justify-content: center;">
-  <!-- Card Rocket ID -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+  <!-- Card Rocket ID (Esquerda) -->
   <div>
-    <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=fragosoph-dev&type=card" width="280" alt="Pablo Henrique Fragoso's Rocket ID"/>
+    <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=fragosoph-dev&type=card" 
+         width="280" 
+         alt="Pablo Henrique Fragoso's Rocket ID"/>
   </div>
-  <!-- GitHub Stats -->
-  <div>
+  
+  <!-- GitHub Stats (Direita - em coluna) -->
+  <div style="display: flex; flex-direction: column; gap: 20px;">
     <a href="https://github.com/fragoso-dev">
-      <img src="https://github-readme-stats.vercel.app/api?username=fragoso-dev&show_icons=true&theme=dark&line_height=33&count_private=true" alt="Pablo Henrique github stats" height="160" width="420"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=fragoso-dev&show_icons=true&theme=dark&line_height=33&count_private=true" 
+           alt="Pablo Henrique github stats" 
+           height="160" 
+           width="420"/>
     </a>
     <a href="https://github.com/fragoso-dev">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fragoso-dev&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"  heigth="160" width="420px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fragoso-dev&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"  
+           alt="Linguagens mais usadas" 
+           height="160" 
+           width="420"/>
     </a>
   </div>
 </div>
