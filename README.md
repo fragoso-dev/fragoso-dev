@@ -32,8 +32,6 @@
         width="380"
       />
     </a>
-    <a href="https://github.com/fragoso-dev">
-    </a>
   </div>
 
   <!-- Card Rocket ID -->
