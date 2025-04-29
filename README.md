@@ -1,3 +1,5 @@
+<div><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=fragosoph-dev&type=card" width="280" alt="Pablo Henrique Fragoso 's Rocket ID"/></div>
+
 <H1>Hello, welcome to my repository!</H1>
 
 <div><h3>Tecnologias que estou aprendendo😎</h3></div>
@@ -7,8 +9,6 @@
     <img src="https://skillicons.dev/icons?i=figma,github,git,vscode,html,css,vue,react,nodejs,javascript,typescript,sql" />
   </a>
 </p>
-
-<div><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=fragosoph-dev&type=card" width="280" alt="Pablo Henrique Fragoso 's Rocket ID"/></div>
   
 ## **GitHub Statistics**
 
