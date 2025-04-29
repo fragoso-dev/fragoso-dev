@@ -20,7 +20,7 @@
   </div>
 </div>
 <a href="https://github.com/fragoso-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fragoso-dev&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"  heigth="160" width="420px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fragoso-dev&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"  heigth="160" width="420px"/>
 </a>
 <br>
 <!-- Card Rocket ID -->
