@@ -37,7 +37,7 @@
   </div>
 
   <!-- Card Rocket ID  -->
-  <div style="margin: 0 0;">
+  <div>
     <img
       src="https://app.rocketseat.com.br/api/rocketid/share?slug=fragosoph-dev&type=card"
       width="240"
