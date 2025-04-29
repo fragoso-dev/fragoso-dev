@@ -17,8 +17,6 @@
     <a href="https://github.com/fragoso-dev">
       <img src="https://github-readme-stats.vercel.app/api?username=fragoso-dev&show_icons=true&theme=dark&line_height=33&count_private=true" alt="Pablo Henrique github stats" height="160" width="420"/>
     </a>
-  </div>
-  <div>
     <a href="https://github.com/fragoso-dev">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fragoso-dev&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"  heigth="160" width="420px"/>
     </a>
