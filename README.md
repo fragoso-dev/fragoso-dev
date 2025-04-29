@@ -7,6 +7,8 @@
     <img src="https://skillicons.dev/icons?i=figma,github,git,vscode,html,css,vue,react,nodejs,javascript,typescript,sql" />
   </a>
 </p>
+
+<div><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=fragosoph-dev&type=card" width="280" alt="Pablo Henrique Fragoso 's Rocket ID"/></div>
   
 ## **GitHub Statistics**
 
@@ -20,11 +22,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fragoso-dev&show_icons=true&theme=dark&line_height=33&count_private=true" alt="**PABLO HENRIQUE* github stats" heigth="160em" width="420px"/>
 </a>
 </div>
-
 <br>
 
-<div><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=fragosoph-dev&type=card" width="280" alt="Pablo Henrique Fragoso 's Rocket ID"/></div>
- 
 <div> 
 <!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   <a href="https://www.instagram.com/fragosoph?igsh=YjlhMHd4MnF4MWg1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
