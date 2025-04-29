@@ -1,6 +1,6 @@
 <H1>Hello, welcome to my repository!</H1>
 
-<div><h1>Skills😎</h1></div>
+<div><h3>Tecnologias que estou aprendendo😎</h3></div>
 
  <p align="start">
   <a href="https://skillicons.dev">
