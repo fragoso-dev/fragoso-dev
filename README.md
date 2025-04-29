@@ -22,6 +22,8 @@
 </div>
 
 <br>
+
+<div><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=fragosoph-dev&type=card" width="280" alt="Pablo Henrique Fragoso 's Rocket ID"/></div>
  
 <div> 
 <!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
