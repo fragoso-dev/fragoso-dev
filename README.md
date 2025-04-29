@@ -10,6 +10,10 @@
   
 ## **GitHub Statistics**
 
+<a href="https://github.com/fragoso-dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fragoso-dev&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"  heigth="160em" width="420px"/>
+</a>
+
 <div style="display: flex; justify-content: center; align-items: flex-start;flex-wrap: wrap;">
   <!-- Card Rocket ID -->
   <div>
