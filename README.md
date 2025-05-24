@@ -1,4 +1,4 @@
-<h1>Hello, welcome to my repository!</h1>
+<h1>Hello, Welcome to my repository!</h1>
 
 <div>
   <h3>Tecnologias que estou aprendendo😎</h3>
